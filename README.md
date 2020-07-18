@@ -8,7 +8,8 @@
 <a href="https://instagram.com/master_br1an" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="master_br1an" height="20" width="20" /></a>
 </p>
 
-### Hi there 👋 welcome to my Github!<p align="left"> <img src="https://komarev.com/ghpvc/?username=masterbrian99" alt="masterbrian99" /> </p>
+### Hi there 👋 welcome to my Github!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=masterbrian99" alt="masterbrian99" /> </p>
 
 - 🌱 I’m currently learning java
 - 💬 Ask me about anything
