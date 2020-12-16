@@ -48,8 +48,6 @@ vιѕιтor coυnт-   ![visitors](https://visitor-badge.glitch.me/badge?page_id
 <a href="https://discord.gg/MasterBrian#2609" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="MasterBrian#2609" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">ꜱᴜᴘᴘᴏʀᴛ 🙄:</h3>
-<p><a href="https://www.buymeacoffee.com/Masterbr1an"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Masterbr1an" /></a></p><br><br>
 
 
 ![nice day](https://i.pinimg.com/originals/0c/ea/a2/0ceaa250a0d8142f300a87e5d104fbc2.gif)
