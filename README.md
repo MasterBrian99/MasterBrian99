@@ -21,7 +21,23 @@ vιѕιтor coυnт-   ![visitors](https://visitor-badge.glitch.me/badge?page_id
 
 
 
+
+
 ---
+
+<h3><summary> ᴀʙᴏᴜᴛ ᴍᴇ 😗</summary></h3>
+<details>
+
++ ###  ᵀʸᵖᵉˢᶜʳⁱᵖᵗ ᵃⁿᵈ ᴳʳᵃᵖʰQᴸ ᴱⁿᵗʰᵘˢⁱᵃˢᵗ 🥇
++ ### ᴺᵒᵈᵉ.ʲˢ ᴸᵒᵛᵉʳ 💝
++ ### ᶠᵘˡˡ ˢᵗᵃᶜᵏ ᴰᵉᵛᵉˡᵒᵖᵉʳ 🏆
+</details>
+
+
+---
+
+
+
 ![Brian's github stats](https://github-readme-stats.vercel.app/api?username=MasterBrian99&show_icons=true&theme=blue-green) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MasterBrian99&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
