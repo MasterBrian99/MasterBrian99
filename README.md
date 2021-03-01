@@ -12,6 +12,17 @@
 
 <!--Icons-->
 
+
+
+
+
+
+
+
+
+
+
+
 vιѕιтor coυnт-   ![visitors](https://visitor-badge.glitch.me/badge?page_id=MasterBrian99.MasterBrian99)
 
 <h3 align="left">ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ 🙄:</h3>
