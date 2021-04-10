@@ -44,6 +44,8 @@ vιѕιтor coυnт-   ![visitors](https://visitor-badge.glitch.me/badge?page_id
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterBrian99&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=MasterBrian99&theme=react-dark)](https://github.com/MasterBrian99)
+
 
 
 <h3 align="left">ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ 😏:</h3>
