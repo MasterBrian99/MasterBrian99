@@ -46,7 +46,7 @@
 ![Brian's github stats](https://github-readme-stats.vercel.app/api?username=MasterBrian99&show_icons=true&theme=blue-green) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MasterBrian99&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterBrian99&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterBrian99&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
