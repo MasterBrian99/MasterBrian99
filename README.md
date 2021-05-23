@@ -1,7 +1,7 @@
 <div align="center">
 <img src="./images/tenor.gif" width="220"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&color=26C2F7&center=true&vCenter=true&lines=%F0%9D%93%A6%F0%9D%93%AE%F0%9D%93%B5%F0%9D%93%AC%F0%9D%93%B8%F0%9D%93%B6%F0%9D%93%AE+%F0%9D%93%BD%F0%9D%93%B8+%F0%9D%93%B6%F0%9D%94%82+%F0%9D%93%96%F0%9D%93%B2%F0%9D%93%BD%F0%9D%93%B1%F0%9D%93%BE%F0%9D%93%AB+%F0%9D%93%9F%F0%9D%93%BB%F0%9D%93%B8%F0%9D%93%AF%F0%9D%93%B2%F0%9D%93%B5%F0%9D%93%AE.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pattaya&size=35&vCenter=true&lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 
 ---
 
