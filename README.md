@@ -11,4 +11,4 @@
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=MasterBrian99.MasterBrian99) [![HamiltonPharmD StackOverflow](https://stackoverflow-badge.vercel.app/?userID=14122375)](https://stackoverflow.com/users/9872524/masterbrian99)
 
 </div>
-![Metrics](https://github.com/MasterBrian99/MasterBrian99/blob/main/github-metrics.svg)
+![Metrics](https://github.com/MasterBrian99/MasterBrian99/blob/master/github-metrics.svg)
