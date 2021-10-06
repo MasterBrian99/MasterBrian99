@@ -11,7 +11,15 @@
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=MasterBrian99.MasterBrian99) [![HamiltonPharmD StackOverflow](https://stackoverflow-badge.vercel.app/?userID=14122375)](https://stackoverflow.com/users/9872524/masterbrian99)
 
 </div>
-
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://raw.githubusercontent.com/MasterBrian99/MasterBrian99/devcard/devcard.svg"
+    />
+  </a>
+  
+  
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=masterbrian99&theme=dracula)
    
