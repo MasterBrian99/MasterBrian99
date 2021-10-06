@@ -11,4 +11,13 @@
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=MasterBrian99.MasterBrian99) [![HamiltonPharmD StackOverflow](https://stackoverflow-badge.vercel.app/?userID=14122375)](https://stackoverflow.com/users/9872524/masterbrian99)
 
 </div>
-![Metrics](https://github.com/MasterBrian99/MasterBrian99/blob/master/github-metrics.svg)
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://raw.githubusercontent.com/MasterBrian99/MasterBrian99/devcard/devcard.svg"
+    />
+  </a>
+
+<img src="https://github.com/MasterBrian99/MasterBrian99/blob/master/github-metrics.svg"/>
