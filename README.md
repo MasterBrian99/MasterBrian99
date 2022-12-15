@@ -26,3 +26,6 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wfsz38d7rdo1soj6eab8sfeds&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=wfsz38d7rdo1soj6eab8sfeds&redirect=true)
  
 </div>
+
+
+[![Metrics](https://github.com/MasterBrian99/MasterBrian99/actions/workflows/lowlighter.yml/badge.svg)](https://github.com/MasterBrian99/MasterBrian99/actions/workflows/lowlighter.yml) [![.github/workflows/dev-card.yml](https://github.com/MasterBrian99/MasterBrian99/actions/workflows/dev-card.yml/badge.svg)](https://github.com/MasterBrian99/MasterBrian99/actions/workflows/dev-card.yml)
