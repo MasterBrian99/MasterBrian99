@@ -1705,7 +1705,7 @@ add rle</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 58.7k out of 162m repositories</span>
+                                    <span class="gh">ranked 58.7k out of 221m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">861</div>
                                     </div>
@@ -2075,7 +2075,7 @@ add rle</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Nov 2024, 00:33:04 (timezone Asia/Colombo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Nov 2024, 01:33:07 (timezone Asia/Colombo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
