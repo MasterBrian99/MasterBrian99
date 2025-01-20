@@ -2,7 +2,14 @@
 
 ### I like cats :)
 
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wfsz38d7rdo1soj6eab8sfeds&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+
+
 
 </div>
 
