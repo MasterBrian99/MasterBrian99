@@ -71,11 +71,7 @@ jobs:
           plugin_stargazers_days: 14
           plugin_stars: yes
           plugin_stars_limit: 2
-          plugin_wakatime: yes
-          plugin_wakatime_days: 7
-          plugin_wakatime_limit: 5
-          plugin_wakatime_repositories_visibility: all
-          plugin_wakatime_sections: time, projects, projects-graphs, languages,
+
             languages-graphs, editors, os
           plugin_wakatime_url: https://wakapi.dev
           plugin_wakatime_user: masterbr1an
